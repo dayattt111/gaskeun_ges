@@ -18,6 +18,10 @@ header {
   color: #fff;
   animation: slideDown 1s ease-out;
 }
+.login-btn{
+  background-color: #fff;
+  font-size: 30px;  
+}
 
 h1.animate-header {
   font-size: 3rem;
